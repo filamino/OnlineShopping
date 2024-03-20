@@ -13,7 +13,6 @@
             Name = name;
             Description = description;
             Price = price;
-
         }
 
     }
